@@ -5,7 +5,7 @@ The original Raspberry Pi Pico family, referred to as Pico or Pico 1, comes in f
 * Raspberry Pi Pico
 * Raspberry Pi Pico H
 * Raspberry Pi Pico W
-* Raspberry Pi Pico WH
+
 
 The second-generation Raspberry Pi Pico family is referred to as Pico 2. Pico 2 comes in two variants:
 
